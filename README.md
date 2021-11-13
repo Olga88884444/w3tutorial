@@ -7,3 +7,4 @@ Do not make any unathorized changes.
 This repository now includes changes made in GitHub.
 There is second change made in GitHub.
 There is a change made in local repository to be added to remore repository.
+This is c change made in remote GitHub repository in branch2.
